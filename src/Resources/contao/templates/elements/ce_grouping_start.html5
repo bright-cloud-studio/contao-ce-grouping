@@ -1,1 +1,1 @@
-<div class="ce_grouping_wrapper ce_grouping_start">
+<div class="<?= $this->class ?>" <?= $this->cssID ?>>
